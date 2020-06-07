@@ -5,7 +5,7 @@ categories:
  - Ottawa
 tags: trail
 ---
-Due to COVID, I found myself spend a lot of time in trails these days to keep social distancing as far as possible. Previously I didn't know there are so many cute trails in Ottawa until I visited them.
+Due to COVID, I found myself spend a lot of time in trails these days to keep social distancing as far as possible. Previously I didn't know there are so many cute trails in Ottawa until I visited them. I'll keep updating this post as I visit more trails.
 
 ## Hunt Club
 
