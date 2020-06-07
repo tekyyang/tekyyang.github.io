@@ -29,6 +29,15 @@ We found this place when waiting for car maintenances in Hunt Club Honda, so you
 
 This is definitely a gem hidden in Merivale: a little forest in Nepean close to a lot of places you are familiar with. The best part is you can basically park at Nepean Sportsplex’s parking lot and enjoy the trails. We also found an ester egg there: if you walk a little bit further, you can find Pinhey Sand Dune in the middle of our little forest! (Just like how the trees appear in the middle of the city) Also, walking along the Merivale Gardens neighbourhood is also quite relaxing so I need to say although the trails are not super long but they are full of surprises! 
 
+## Hog’s Back
+
+### Mooney's Bay Park and Beach & Hog’s Back Park
+
+[2960 Riverside Dr., Ottawa, ON K1V 8N4](https://www.google.ca/maps/place/Mooney's+Bay+Park+and+Beach/@45.3671918,-75.6915224,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNvBEfEAqXwr6-o1TyFvx34FDOokHLzN7n73V3U!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNvBEfEAqXwr6-o1TyFvx34FDOokHLzN7n73V3U%3Dw114-h86-k-no!7i4032!8i3024!4m5!3m4!1s0x4cce0616c5d28427:0xb64144fdcd27a855!8m2!3d45.3671918!4d-75.6915224)
+
+I used to live nearby so this is the most visited place for me whenever I want to have a walk. I enjoy these two parks a lot since they have almost everything a park can offer: a beach, lanes for cycling & jogging, waterfall, entertainment facilities for kids and family, BBQ area, a hill that people can use for star-gazing in summer and sliding down from the top in winter, cross-country skiing area, you name it. I’ll always remember the days that I had a walk to the beach after dinner in summertime to wait for the sunset and vanilla sky, overlook the neighborhood on the top of the hill, and run into fireflies one day at dark night!
+
+
 ## Rockcliffe
 
 ### Ottawa River Pathway
@@ -45,5 +54,14 @@ This is a long pathway close to Ottawa River. Unlike other others that usually s
 [Eagleson Rd, Kanata, ON K2M 1A9](https://www.google.ca/maps/place/Old+Quarry+Trail/@45.3017654,-75.8743715,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOVLRHMPLppQlT4VfgKfGFMnVqmDE_ZPYGc7mWG!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOVLRHMPLppQlT4VfgKfGFMnVqmDE_ZPYGc7mWG%3Dw114-h86-k-no!7i4608!8i3456!4m5!3m4!1s0x4ccdffbacf5d08cd:0x4a5fdcca4c23e046!8m2!3d45.3017654!4d-75.8743715)
 
 First of all, there is a dedicated parking lot right next to this trail, or you can just park at the plaza of Hazeldean Mall (yes so far you must have figured I pay a lot of attentions on where to park lol). Among all the trails I have been to in Ottawa, this one is the “wildest” one: don’t be surprise if you can see small animals all the time! Walking along this trail, you can see squirrels and chipmunks running up and down all the time, here the sound of woodpeckers, even find mallard couples sleeping next to the woods, or, black and white snake sliding beside your ankle…forget about the last one, generally my experience is pretty good there. This trail also intersects with Trans Canada Trail. So if you are more of a cyclist this would definitely be a good line for you.
+
+## Richmond
+
+### Marlborough Forest
+
+[Ottawa, ON K0A 2Z0](https://www.google.ca/maps/place/Marlborough+Forest/@45.0975997,-75.8538698,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOZd_PlLvSPXc13IkQ4Yx4Xo0GvfMCVHD4dTTGz!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOZd_PlLvSPXc13IkQ4Yx4Xo0GvfMCVHD4dTTGz%3Dw114-h86-k-no!7i4032!8i3024!4m12!1m6!3m5!1s0x4ccdf229f991f19b:0x83561ae5ce637aaa!2sMarlborough+Forest!8m2!3d45.0975997!4d-75.8538698!3m4!1s0x4ccdf229f991f19b:0x83561ae5ce637aaa!8m2!3d45.0975997!4d-75.8538698)
+
+It’s not surprising when you found your favorite trail becomes crowded these days since it might be others’ favorite too. There are sometimes I found it hard to keep social distancing since the trail has to be shared by pedestrians and cyclists when the trail itself is even less than 2 meters wide. To find a place that is totally safe to walk without your mask on, I kinda randomly throw a pin on the map and found this place. Luckily, it matches my expectation perfectly. I only run into 2 families, 1 group of motorcyclists, and 1 group driving ATVs within the whole hour which was definitely a win. And yes another cool thing about this place is it’s also used by lovers of snowmobile in the winter. The road could be a bit rough to walk on since there are parts full of small stones or flooded, so get the right shoes before visiting. Also, it would be nice to keep your repellent handy (I think you understand why I mention this…:neutral_face:).
+
 
 More to come....
