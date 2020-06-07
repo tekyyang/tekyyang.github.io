@@ -38,4 +38,12 @@ This is definitely a gem hidden in Merivale: a little forest in Nepean close to 
 This is a long pathway close to Ottawa River. Unlike other others that usually surrounded by trees, you can keep walking along the river and enjoy the changing water scene, the clouds, and Gatineau on the other side. The address above is just a reference while you can actually park anywhere close to the parkway (FYI: the parking in Aviation museum is not free during weekend though).
 
 
+## Kanata 
+
+### Old Quarry Trail
+
+[Eagleson Rd, Kanata, ON K2M 1A9](https://www.google.ca/maps/place/Old+Quarry+Trail/@45.3017654,-75.8743715,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOVLRHMPLppQlT4VfgKfGFMnVqmDE_ZPYGc7mWG!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOVLRHMPLppQlT4VfgKfGFMnVqmDE_ZPYGc7mWG%3Dw114-h86-k-no!7i4608!8i3456!4m5!3m4!1s0x4ccdffbacf5d08cd:0x4a5fdcca4c23e046!8m2!3d45.3017654!4d-75.8743715)
+
+First of all, there is a dedicated parking lot right next to this trail, or you can just park at the plaza of Hazeldean Mall (yes so far you must have figured I pay a lot of attentions on where to park lol). Among all the trails I have been to in Ottawa, this one is the “wildest” one: don’t be surprise if you can see small animals all the time! Walking along this trail, you can see squirrels and chipmunks running up and down all the time, here the sound of woodpeckers, even find mallard couples sleeping next to the woods, or, black and white snake sliding beside your ankle…forget about the last one, generally my experience is pretty good there. This trail also intersects with Trans Canada Trail. So if you are more of a cyclist this would definitely be a good line for you.
+
 More to come....
