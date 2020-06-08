@@ -5,6 +5,7 @@ categories:
  - Life Hack
 tags: finance
 ---
+This post is going to talk about how to monitor your financial status in a self-serve way with no privacy concerns.
 
 ## Background
 
@@ -22,7 +23,7 @@ Based on the motivation above, I start to look for the simplest and most secure 
 I’ll explain how I did each part in the following sections. All the codes are written in Python.
 
 ## Data Collection
-The first step is to get transaction level details from your online banking website. You can definitely download this manually every time, but it would be awesome to automate the whole thing, right? To collect the data, I used selenium which is a Python package can automate browsers. Since banks have different ways to manage your transactions, you probably need to write different scripts for each bank you are with. For example, here is some code to get your transaction data for RBC online banking:
+The first step is to get transaction level details from your online banking website. You can definitely download this manually every time, but it would be awesome to automate the whole thing. To collect the data, I used selenium which is a Python package can automate browsers. Since banks have different ways to manage your transactions, you probably need to write different scripts for each bank you are with. For example, here is some code to get your transaction data for RBC online banking:
 ```python
 import os
 from pathlib import Path
@@ -75,7 +76,7 @@ paths = sorted(Path(download_path).iterdir(), key=os.path.getmtime)
 latest_file_path = str(paths[-1])
 shutil.move(latest_file_path, 'path_your_want_to_organize_all_the_transaction_files')
 ```
-You may see me using `find_element_by_xpath` a lot, and that is because I fall in love with this Chrome extension called [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph?hl=en)), which can help you find out the xPath for the selected element immediately. After I found it, I give up on using any other way to locate an element on a webpage since it can speed up the whole process 10x.
+You may see me using `find_element_by_xpath` a lot, and that is because I fall in love with this Chrome extension called [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph?hl=en), which can help you find out the xPath for the selected element immediately. After I found it, I give up on using any other way to locate an element on a webpage since it can speed up the whole process 10x.
 
 From the code above, you can see how easy it is to pull data from your bank by hitting the run button. And I believe you can figure out how to pull data for your own bank by using the similar idea. But be careful about how different banks organize your transactions. For instance, RBC allows you to download all your transactions in one CSV file but only for the past 6 months; While CIBC (another bank I’m with) lets you download all your historical transactions, but you need to download for each account you have respectively. 
 
@@ -85,7 +86,7 @@ After you have all your transaction data in hand, you can start to organize your
 
 ## Data Visualization
 
-If you have Tableau, especially Tableau Individual license, I’ll strongly recommend you use Tableau and problem solved. For me, Tableau is good enough to make all charts I wanted in my mind with its beautiful charts. Alternatively, you can also use [Dash open source](https://dash.plotly.com/) https://dash.plotly.com/). In Dash’s webpage, it says “Dash apps run on your local laptop or workstation but cannot be easily accessed by others in your organization.”, while, it’s perfectly for my use case since I don’t want to push anything to the cloud. To be more specific, 
+If you have Tableau, especially Tableau Individual license, I’ll strongly recommend you use Tableau and problem solved. For me, Tableau is good enough to make all charts I wanted in my mind with its beautiful charts. Alternatively, you can also use [Dash open source](https://dash.plotly.com/). In Dash’s webpage, it says “Dash apps run on your local laptop or workstation but cannot be easily accessed by others in your organization”, while, it’s perfectly for my use case since I don’t want to push anything to the cloud. To be more specific, 
 
 *Dash is a productive Python framework for building web applications.*
 *Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python. It's particularly suited for anyone who works with data in Python.*
@@ -141,36 +142,36 @@ visualize()
 ```
 
 In the end, I made several charts which shows:
--	My current total balance
+-	**My current total balance**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Finally, we can answer the question at the beginning: how much money do I have right now?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, we can answer the question at the beginning: how much money do I have right now?
 
--	My current balance by banks (e.g. RBC, CIBC, TD…)
+-	**My current balance by banks** (e.g. RBC, CIBC, TD…)
 
-&nbsp;&nbsp;&nbsp;&nbsp;I know I have the money above, but how they distributed across all the banks I’m with? Furthermore, we can make decisions like: If I know bank B have a better deal for an investment, then should I consider move some money from bank A to bank B?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I know I have the money above, but how they distributed across all the banks I’m with? Furthermore, we can make decisions like: If I know bank B have a better deal for an investment, then should I consider move some money from bank A to bank B?
 
--	My current balance by banks by accounts (e.g. RBC chequing, RBC high interest, RBC Mastercard…)
+-	**My current balance by banks by accounts** (e.g. RBC chequing, RBC high interest, RBC Mastercard…)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Do I need to pay for my credit card balance right now? Should I move some money from my day to day chequing account to my high interest chequing account?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do I need to pay for my credit card balance right now? Should I move some money from my day to day chequing account to my high interest chequing account?
 
--	Fixed monthly recurring fee (e.g. condo fee, parking, car insurance, mobile bill, internet bill…)
+-	**Fixed monthly recurring fee** (e.g. condo fee, parking, car insurance, mobile bill, internet bill…)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Some fixed expenses to keep in mind you need to pay for every month
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some fixed expenses to keep in mind you need to pay for every month
 
--	Variable monthly recurring fee (e.g. petro, gas, hydro…)
+-	**Variable monthly recurring fee** (e.g. petro, gas, hydro…)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Some variable expense to pay for each month, and you can track the changing on these fees over time and get a better understanding about what change on your lifestyle caused the changes on these payments?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some variable expense to pay for each month, and you can track the changing on these fees over time and get a better understanding about what change on your lifestyle caused the changes on these payments?
 
--	Balance over month 
+-	**Balance over month** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Answer the question directly: I’m in red or green for this month? Or, should I buy this thing if I want to save up to $xxx for this month?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Answer the question directly: I’m in red or green for this month? Or, should I buy this thing if I want to save up to $xxx for this month?
 
--	Balance over month by income and expenses
+-	**Balance over month by income and expenses**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Answer a further question: I’m in red/green, because I got less/more income, or more/less expenses?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Answer a further question: I’m in red/green, because I got less/more income, or more/less expenses?
 
--	Expenses by category (e.g. online shopping, grocery, food delivery, education, travel…)
+-	**Expenses by category** (e.g. online shopping, grocery, food delivery, education, travel…)
 
-&nbsp;&nbsp;&nbsp;&nbsp;What did you spend money on? Interestingly, I found since COVID started and I started to work from home, my grocery shopping expense got doubled at least compared with prior COVID months. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What did you spend money on? Interestingly, I found since COVID started and I started to work from home, my grocery shopping expense got doubled at least compared with prior COVID months. 
 
 Currently, I tend to run this workflow once a week, but actually you can run whenever you like. Now the charts are mostly focusing on monitoring spending since that’s the thing I want to start with, while I’m planning to add more sections for investment analysis as well when I got more bandwidth. 
