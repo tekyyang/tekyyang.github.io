@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+
 <div class="copyright" >
   {% assign current = site.time | date: '%Y' %}
   {% assign since = site.since | downcase %}
@@ -7,6 +9,25 @@
     <i class="fa fa-{{ site.authoricon }}"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">{{ site.author }}</span>
+</div>
+
+<div class="social-contact-with-icon">
+  <li>
+    <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="Linkedin">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/tekyyang{{ site.author.github }}" title="Github">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
 </div>
 
 {% if site.copyright %}
