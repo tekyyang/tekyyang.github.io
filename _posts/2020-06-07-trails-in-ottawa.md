@@ -37,6 +37,13 @@ This is definitely a gem hidden in Merivale: a little forest in Nepean close to 
 
 I used to live nearby so this is the most visited place for me whenever I want to have a walk. I enjoy these two parks a lot since they have almost everything a park can offer: a beach, lanes for cycling & jogging, waterfall, entertainment facilities for kids and family, BBQ area, a hill that people can use for star-gazing in summer and sliding down from the top in winter, cross-country skiing area, you name it. I’ll always remember the days that I had a walk to the beach after dinner in summertime to wait for the sunset and vanilla sky, overlook the neighborhood on the top of the hill, and run into fireflies one day at dark night!
 
+## Westboro
+
+### Westboro Beach 
+
+[745 Sir John A. Macdonald Parkway, Ottawa, ON K2B 5L7](https://www.google.ca/maps/place/Kitchissippi+Lookout/@45.3963782,-75.7618824,164m/data=!3m1!1e3!4m13!1m7!3m6!1s0x4cce03ff633450f7:0xd853ddca6454ca62!2sWestboro+Beach!3b1!8m2!3d45.3953366!4d-75.7612863!3m4!1s0x0:0xe7473ca233c017f6!8m2!3d45.3963782!4d-75.7618824)
+
+Happened to see this place on the map with an easy to remember name, so decided to give it a try in a workday’s evening. I’m lucky that the weather was good enough to enjoy the sunset. The beach itself is not that big compared with the beach in Mooney’s Bay, but you can enjoy a bigger water scenery facing north to Gatineau. Also, you can just keep going on the Trans Canada trail along the water as far as you can and surrounded by the trees all the time. I also explored the nearby community a little bit and it did surprise me. Next to Lanark Avenue, stylish and artistic homes can be found easily, and it’s pretty fun to just hang around in the community. Sometimes I cannot tell it’s someone’s home, or a castle, or a museum… 
 
 ## Rockcliffe
 
