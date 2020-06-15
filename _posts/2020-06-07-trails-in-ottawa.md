@@ -62,6 +62,14 @@ This is a long pathway close to Ottawa River. Unlike other others that usually s
 
 First of all, there is a dedicated parking lot right next to this trail, or you can just park at the plaza of Hazeldean Mall (yes so far you must have figured I pay a lot of attentions on where to park lol). Among all the trails I have been to in Ottawa, this one is the “wildest” one: don’t be surprise if you can see small animals all the time! Walking along this trail, you can see squirrels and chipmunks running up and down all the time, here the sound of woodpeckers, even find mallard couples sleeping next to the woods, or, black and white snake sliding beside your ankle…forget about the last one, generally my experience is pretty good there. This trail also intersects with Trans Canada Trail. So if you are more of a cyclist this would definitely be a good line for you.
 
+## Bells Corners 
+
+### Stony Swamp Trail
+
+[NCC 26, Nepean, ON K2R 1H4](https://www.google.ca/maps/place/Stony+Swamp+Trail/@45.3064893,-75.8169374,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPX5uGp0MCiFZWNM6IFWliSk8niXRV2QjaxRP3M!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPX5uGp0MCiFZWNM6IFWliSk8niXRV2QjaxRP3M%3Dw114-h86-k-no!7i4032!8i3024!4m8!1m2!2m1!1ssnow+swamp+trail!3m4!1s0x4ccdfe0da34821c7:0x33d390b0d72cb6a!8m2!3d45.3064827!4d-75.8169314)
+
+This is a popular trail locates in the middle of the line between Kanata and Barhaven, or maybe I should say it's close to Bells Corners. The road could be not so spacious in some area but I feel that's also the fun part since you'll feel like you are wandering in a real forest! I took a circle starting from the parking plot and one hour later I'm back to where I parked, just enough amount of excrise if you are not looking for something too heavy; Of course, there are multiple roads you can choose from if you want to hang out a little bit further. One thing makes this trail differ from others is the rocky surfact it has. Another thing worth to mention is driving to this trail is also quite enjoyable: you'll pass by a arces of farm land and the country road is not busy at all. There are plenty of time that you can daydream about living a life in the country (Obviously that's what I did :)
+
 ## Richmond
 
 ### Marlborough Forest
