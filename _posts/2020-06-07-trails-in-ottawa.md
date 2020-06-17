@@ -45,6 +45,16 @@ I used to live nearby so this is the most visited place for me whenever I want t
 
 Happened to see this place on the map with an easy to remember name, so decided to give it a try in a workday’s evening. I’m lucky that the weather was good enough to enjoy the sunset. The beach itself is not that big compared with the beach in Mooney’s Bay, but you can enjoy a bigger water scenery facing north to Gatineau. Also, you can just keep going on the Trans Canada trail along the water as far as you can and surrounded by the trees all the time. I also explored the nearby community a little bit and it did surprise me. Next to Lanark Avenue, stylish and artistic homes can be found easily, and it’s pretty fun to just hang around in the community. Sometimes I cannot tell it’s someone’s home, or a castle, or a museum… 
 
+## Sussex 
+
+### Rideau Falls
+
+[50 Sussex Dr, Ottawa, ON K1M 2K1](https://www.google.ca/maps/place/Rideau+Falls/@45.4415246,-75.6959162,3a,75y,90t/data=!3m8!1e2!3m6!1shttp:%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn:ANd9GcQun5uh1rEIlNBSkSk1mH9SVRa1Wr_uOB60Lzk1OIYSrOMUnFVK!2e7!3e27!6s%2F%2Flh6.googleusercontent.com%2Fproxy%2F9tzBH02JNSo8W7g5d2YcfB1JHzZarwSGj2v2kgmMMMyYx_dHKF1DMBDSniteQFJY0ydvwYSBO7RCvq_Brs1NsoadYPHstoP_FnY7yuPW9hsfBMtv9O1NskQOWB8O_xTej_mBajcDZI3rrrGZcl1-cMhdG2WIVdc%3Dw120-h86-k-no!7i1080!8i771!4m5!3m4!1s0x4cce04e780725c1d:0x91bf6c6b8092abde!8m2!3d45.4415246!4d-75.6959162)
+
+A lovely place locates in downtown area. I usually come here to watch sunset, but the other time of the day could also be amazing. When the day gets darker, there is light show on the fall as well. There is a restaurant called Tavern on the Falls
+which can provide a good view to have dinner and watch sunset at the same time. If you want to take a walk around this area, you can walk along with Rideau river eastern pathway to Stanley Park. No matter where you go, you can almost alway see water sits along side you and that makes this place special. Since this place is so popular, it's not surprising that the parking lot is always fully occupied...
+
+
 ## Rockcliffe
 
 ### Ottawa River Pathway
